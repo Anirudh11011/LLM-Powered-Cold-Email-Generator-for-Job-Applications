@@ -1,4 +1,5 @@
 Project Title: LLM-Powered Cold Email Generator for Job Applications
+
 Project Overview
 
 This project focuses on building an AI assistant that generates personalized cold emails for job applications. Using LLaMA-3.3-70B, LangChain, and ChromaDB, it automates the process from scraping job postings to creating customized outreach emails, all within a Streamlit web interface.
